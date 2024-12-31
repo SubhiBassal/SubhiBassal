@@ -1,4 +1,3 @@
-<title>Hi</title>
 <h1>Let's work togather</h1>
 - 👋 Hi, I’m @SubhiBassal <br>
 - 👀 I’m interested in programming<br>
