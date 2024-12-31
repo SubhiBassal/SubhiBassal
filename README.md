@@ -6,6 +6,8 @@
 - 📫 How to reach me Whatsapp: +963985694771 || discord: subhi4235<br>
 - 😄 Pronouns: I can speak two language<br>
 - ⚡ Fun fact: I am not old
+- 👨🏻‍💻 I had learned python,Html,css and js
+-I always want to be the best version of myself.
 
 <!---
 SubhiBassal/SubhiBassal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
